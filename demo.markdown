@@ -9,5 +9,8 @@ title: This will be used as the title-tag of the page head
 * Bullet lists are also easy to create
 * One more
 * 
-      import os
-      f = open("file")
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
