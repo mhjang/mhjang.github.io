@@ -1,0 +1,32 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: tahoma, verdana, arial, helvetica, sans-serif;
+	color: #000000;
+}
+
+a, a:visited, a:active {
+	font-family: tahoma, verdana, arial, helvetica, sans-serif;
+	color: #0066CC;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0066CC;
+	text-decoration: underline;
+}
+
+li {
+	line-height:160%;
+	font-family: tahoma, verdana, arial, helvetica, sans-serif;
+	color: #000000;
+	font-size: 11pt;
+}
+
+p {
+	line-height:160%;
+	font-family: tahoma, verdana, arial, helvetica, sans-serif;
+	color: #000000;
+	font-size: 11pt;
+}
+
